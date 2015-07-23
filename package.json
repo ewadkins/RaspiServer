@@ -1,0 +1,16 @@
+{
+  "name": "RaspiServer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "host.js",
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ewadkins/RaspiServer"
+  },
+  "author": "ewadkins@mit.edu",
+  "license": "TBD"
+}
